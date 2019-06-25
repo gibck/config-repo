@@ -2,3 +2,4 @@ server:
   port: 8090
 busi:
   ops: Y
+  pwd: '{cipher}ba97cb26f2c5a2688b21bcefd335a963e20ec98f0ce99bf2f15447fb5fc34438'
